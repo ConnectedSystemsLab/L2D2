@@ -11,4 +11,4 @@ ssec - Wisconsin
 
 aoml - Florida
 
-guam- Guam
+guam - Guam
