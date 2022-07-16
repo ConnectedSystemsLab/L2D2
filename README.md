@@ -15,8 +15,6 @@ guam - Guam
 
 This data accompanies the paper: https://dl.acm.org/doi/10.1145/3452296.3472932
 
-L2D2: low latency distributed downlink for LEO satellites
-
-Deepak Vasisht, Jay Shenoy, Ranveer Chandra
-
-ACM SIGCOMM 2021
+L2D2: low latency distributed downlink for LEO satellites.
+Deepak Vasisht, Jay Shenoy, Ranveer Chandra.
+ACM SIGCOMM 2021.
